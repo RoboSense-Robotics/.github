@@ -1,4 +1,4 @@
-中文文档
+[中文文档](https://github.com/RoboSense-Robotics/.github/blob/main/profile/README_CN.md)
 
 # ABOUT
 
