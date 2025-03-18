@@ -1,4 +1,3 @@
-## Hi there 👋
 RoboSense-Robotics has created a super sensor-related platform for developers, which integrates a series of basic software, tool kits and open source algorithms, aiming to simplify the development process, accelerate the implementation of algorithms, fully release the performance potential of AC series hardware platforms, and greatly reduce the difficulty of development for users. By providing a number of application cases of super sensors, the platform hopes to broaden the user's thinking, stimulate the user's creativity, break the technical boundary, and jointly build the software application ecology of super sensors with us.
 
 
