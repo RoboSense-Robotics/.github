@@ -1,4 +1,10 @@
 ## Hi there 👋
+RoboSense-Robotics has created a super sensor-related platform for developers, which integrates a series of basic software, tool kits and open source algorithms, aiming to simplify the development process, accelerate the implementation of algorithms, fully release the performance potential of AC series hardware platforms, and greatly reduce the difficulty of development for users. By providing a number of application cases of super sensors, the platform hopes to broaden the user's thinking, stimulate the user's creativity, break the technical boundary, and jointly build the software application ecology of super sensors with us.
+
+
+About us
+RoboSense-Robotics is developed by Sagitar's AI group team. We aim to help developers lower the barriers to development, improve development efficiency, and enable them to focus on high-value tasks and feature optimization. We also expect developers to take advantage of these tools to create more interesting and exciting work. If you find any problem in the process of use, please contact us in time, please contact us at:service@robosense.cn
+
 
 <!--
 
