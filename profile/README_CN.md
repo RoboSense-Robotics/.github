@@ -12,7 +12,7 @@ RoboSense-Robotics 为开发者打造了一个超级传感器相关的平台，�
 
 # 文档
 
-[AC_Studio文档](https://robosense-wiki-cn.readthedocs.io/zh-cn/latest/)
+[Robosense wiki](https://robosense-wiki-cn.readthedocs.io/zh-cn/latest/)
 
 
 
