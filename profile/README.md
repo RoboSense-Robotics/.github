@@ -14,7 +14,7 @@ Use AC_Studio, based on our ROS2 engineering provides the warehouse management, 
 
 # Documentation
 
-[Robosense wiki](https://robosense-wiki-en.readthedocs.io/en/latest/)
+[RoboSense wiki](https://robosense-wiki-en.readthedocs.io/en/latest/)
 
 
 
