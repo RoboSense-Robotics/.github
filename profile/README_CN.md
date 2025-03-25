@@ -12,7 +12,7 @@ RoboSense-Robotics 为开发者打造了一个超级传感器相关的平台，�
 
 - [AC ROS2驱动仓](https://github.com/RoboSense-Robotics/robosense_ac_ros2_sdk_infra)
 
-
+- [AC View版本下载](acview_download_link_cn.md)
 
 # 文档
 
