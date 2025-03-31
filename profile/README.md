@@ -25,6 +25,6 @@ Use AC_Studio, based on our ROS2 engineering provides the warehouse management, 
 # About us
 
 RoboSense-Robotics is developed by "RoboSense Technology Co., Ltd" AI group team. We aim to help developers lower the barriers to development, improve development efficiency, and enable them to focus on high-value tasks and feature optimization. We also expect developers to take advantage of these tools to create more interesting and exciting work. 
-If you find any problems during use, please contact us at:service@robosense.cn.
+If you find any problems during use, please contact us at:support@robosense.cn.
 
 
