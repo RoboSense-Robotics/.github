@@ -7,7 +7,7 @@
 - Supports one-click software installation
 - Fix chromatic aberration issues
 
-- ADAPTS the new firmware version 0.0.5
+- Adapts the new firmware version 0.0.5
 
 Linux version：[AC Viewer version 1.0.9 (64 bit) - Ubuntu 20.04](https://cdn.robosense.cn/AC_wiki/AcViewer_Linux_x86_64_release_1.0.9.deb)
 
