@@ -1,5 +1,19 @@
 # AC Viewer版本发布说明
 
+## 1.0.11（2025-06-20）
+
+**发布说明**
+
+- 支持标定信息写入到AC1固件 
+- 支持导出AC1固件中的标定信息 
+- 修复Ubuntu打包安装脚本未设置权限问题
+
+Linux版本：[AC Viewer version 1.0.11 (64 bit) - Ubuntu 20.04](https://cdn.robosense.cn/ACViewer%20Release/AcViewer_Linux_x86_64_release_1.0.11.deb)
+
+Windows版本：[AC Viewer version 1.0.11 (64 bit) - windows 10](https://cdn.robosense.cn/ACViewer%20Release/AcViewer_Win_x86_64_release_1.0.11.exe)
+
+
+
 ## 1.0.10（2025-06-06）
 
 **发布说明**
